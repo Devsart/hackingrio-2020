@@ -1,0 +1,6 @@
+[submodule "coopera-favela-app"]
+	path = coopera-favela-app
+	url = https://github.com/mcaon/coopera-favela-app
+[submodule "coopera-favela-back"]
+	path = coopera-favela-back
+	url = https://github.com/mcaon/coopera-favela-back
