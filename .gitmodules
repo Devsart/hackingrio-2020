@@ -4,3 +4,6 @@
 [submodule "coopera-favela-back"]
 	path = coopera-favela-back
 	url = https://github.com/mcaon/coopera-favela-back
+[submodule "coopera-favela-page"]
+	path = coopera-favela-page
+	url = https://github.com/gablemos/coopera-favela-page
