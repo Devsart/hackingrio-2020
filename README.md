@@ -2,6 +2,10 @@
 ### A melhor solução em cooperativismo e tecnologia para a sua comunidade!
 ### Juntos somos mais fortes! :muscle:
 
+:warning: Caso opte por clonar este repositório principal, aconselho que utilize o seguinte comando para trabalhar melhor com os submódulos :warning: 
+
+    $ git clone --recurse-submodules https://github.com/hackingrio/hackrio-cooperativismo-2020-cooper-ativa
+
 ![Coopera](https://i.ibb.co/F6wWhK7/IMG-20201011-WA0024.jpg)  
 
 [Visite nosso site! Clique aqui.](https://gablemos.github.io/coopera-favela-page)  
