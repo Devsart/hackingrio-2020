@@ -8,7 +8,9 @@
 
 ![Coopera](https://i.ibb.co/F6wWhK7/IMG-20201011-WA0024.jpg)  
 
-[Visite nosso site! Clique aqui.](https://gablemos.github.io/coopera-favela-page)  
+[Visite nosso site! Clique aqui.](https://gablemos.github.io/coopera-favela-page)
+
+**Entre no site para realizar o Download da .APK**
 
 **O que fazemos?**  
   
