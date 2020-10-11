@@ -1,18 +1,42 @@
->Esse é um arquivo de template e tem como o intuito prover uma breve apresentação de seu projeto para avaliadores e mentores. Sinta-se à vontade para editar os tópicos e títulos de acordo com seu gosto ou até mesmo para deletá-lo ou sobrescreve-lo caso o queira. Cheque também o arquivo [repositorio.md](https://github.com/hackingrio/template/blob/master/repositorio.md) para saber o que acontecerá com esse repositório depois que o evento acabar.
+## Sejam bem-vindos ao CooperaFavela! :construction_worker:
+### A melhor solução em cooperativismo e tecnologia para a sua comunidade!
+### Juntos somos mais fortes! :muscle:
 
-# Coopera Favela - 2020
-### CooperAtiva / Equipe 197 / Cluster de Cooperativismo
+![Coopera](https://i.ibb.co/F6wWhK7/IMG-20201011-WA0024.jpg)  
 
-#### Apresentação 
+[Visite nosso site! Clique aqui.](https://gablemos.github.io/coopera-favela-page)  
 
-Use essa seção para falar sobre as motivações de seu time e, de forma breve, qual o produto que estão trabalhando. Se possível forneça **o que** seu produto é, por exemplo: Um app, uma aplicação web, gadget, dentre outros.
+**O que fazemos?**  
+  
+    A nossa ideia é implementar um sistema inteligente, responsável por fazer uma ligação direta entre prestadores de serviço e moradores dentro da comunidade, de forma a aquecer a economia local e tornar essa rede de negócios cada vez mais valiosa.
+    
 
-#### O Produto
+**Como faremos?**  
+  
+    Utilizando uma interface interativa e amigável, unindo a um sistema leve e simplificado, trazemos soluções para problemas do dia-a-dia como organização de logística de entregas e agilização de pedidos de natureza diversa.
+    
+![Telas](https://i.ibb.co/4MZ9s9W/IMG-20201011-WA0010.jpg)  
 
-Adicione detalhes sobre seu produto. Levante pontos positivos, o porquê dele ser inovador, como ele se alinha com o cluster escolhido e quaisquer outras informações relevantes ao entendimento do 'porquê' e 'como' seu produto existe e atua.
 
-#### Informações adicionais 
+**Nosso diferencial:**  
+  
+    A ideia é que no futuro todas as solicitações possam ser feitas via Whatsapp, com uso de chatbot. Dessa forma, democratizaremos o acesso aos serviços e traremos ao usuário o direito de consumir serviços de excelente qualidade, de forma simples e direta.  
 
-Forneça informações adicionais, adicione novos tópicos ou subtópicos. Use esse arquivo como um guia rápido para manter claro os objetivos de seu projeto para os demais integrantes. Manter o foco conjunto de forma coesa lhe ajudará a criar um produto mais *sólido*.
+**Quem somos?**  
+  
+Somos uma equipe de hackers unida, com amor pelo o que faz e com brilho nos olhos para trazer as melhores soluções para a sociedade como um todo. :heart:  
+Somos a Equipe CooperAtiva! Formada pelas incríveis Ana Cristina Soares(Business) e Gabriella Silva(Designer) e pelos maravilhosos desenvolvedores [Marcello Caon](https://github.com/mcaon/), [Gabriel Farias Lemos](https://github.com/gablemos/) e [Matheus Sartor](https://github.com/Devsart) 
 
-Tenha em mente que seu trabalho nesse repositório será avaliado por um Juri Técnico, informações sobre a tecnologia usada também são bem vindas. 
+
+#### Tecnologias Utilizadas no Projeto:
+
+- AsyncStorage
+- Bootstrap
+- Docker
+- React Native;
+- React Hooks;
+- REST API;
+- TypeOrm;
+- TypeScript;
+
+:shipit: - Equipe 197 - Cluster Cooperativismo - Hacking Rio 2020 ©.
